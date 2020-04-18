@@ -1,0 +1,8 @@
+﻿  Reading Qt configuration (E:\qt\5.12.2\msvc2017_64\bin\qmake.exe)
+  moc EntryNameWindow.h
+  moc MainWindow.h
+  moc ScoreWindow.h
+  moc_EntryNameWindow.cpp
+  moc_MainWindow.cpp
+  moc_ScoreWindow.cpp
+  空当接龙.vcxproj -> F:\大学课程\程序设计实践\空当接龙\x64\Debug\空当接龙.exe

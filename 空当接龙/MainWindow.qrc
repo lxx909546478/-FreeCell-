@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/vsTest"/>
+    <qresource prefix="/pic">
+        <file alias="cards">Resources/cards.bmp</file>
+        <file>Resources/52.png</file>
+        <file>Resources/531.png</file>
+        <file>Resources/532.png</file>
+        <file>Resources/533.png</file>
+        <file>Resources/534.png</file>
+        <file>Resources/background.JPG</file>
+        <file>Resources/scoreWindow.png</file>
+        <file>Resources/timer.png</file>
+        <file>Resources/timg.png</file>
+    </qresource>
+    <qresource prefix="/txt">
+        <file alias="IPAddr">Resources/IPAddr.txt</file>
+    </qresource>
+</RCC>
